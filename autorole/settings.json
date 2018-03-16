@@ -1,0 +1,20 @@
+{
+    "384496066923331584" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "419087982595932161" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : true,
+        "ROLE" : "419517200802512917"
+    },
+    "420595696174104588" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    }
+}
